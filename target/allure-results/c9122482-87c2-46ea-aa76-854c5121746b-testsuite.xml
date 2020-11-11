@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1605064794039" stop="1605064856789" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify invalid login for multiple users | humar123@gmail.com | test123 |</name>
+    <title>Verify invalid login for multiple users | humar123@gmail.com | test123 |</title>
+    <test-cases>
+        <test-case start="1605064804252" stop="1605064804253" status="passed">
+            <name>Given I am on home page</name>
+            <title>Given I am on home page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Dilhumars-MacBook-Pro.local"/>
+                <label name="thread" value="84207@Dilhumars-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1605064817478" stop="1605064817478" status="passed">
+            <name>When I enter humar123@gmail.com into username text fields on home screen</name>
+            <title>When I enter humar123@gmail.com into username text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Dilhumars-MacBook-Pro.local"/>
+                <label name="thread" value="84207@Dilhumars-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1605064829565" stop="1605064829565" status="passed">
+            <name>And I enter test123 into password text fields on home screen</name>
+            <title>And I enter test123 into password text fields on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Dilhumars-MacBook-Pro.local"/>
+                <label name="thread" value="84207@Dilhumars-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1605064839672" stop="1605064839672" status="passed">
+            <name>And I click login button on home screen</name>
+            <title>And I click login button on home screen</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Dilhumars-MacBook-Pro.local"/>
+                <label name="thread" value="84207@Dilhumars-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1605064856276" stop="1605064856276" status="passed">
+            <name>Then I verify that i am invalid login page</name>
+            <title>Then I verify that i am invalid login page</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Dilhumars-MacBook-Pro.local"/>
+                <label name="thread" value="84207@Dilhumars-MacBook-Pro.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify invalid login for multiple users | humar123@gmail.com | test123 |"/>
+        <label name="feature" value="Login Facebook page"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
